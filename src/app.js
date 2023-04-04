@@ -1,7 +1,9 @@
 import page from '//unpkg.com/page/page.mjs';
 
 
-import page from '../node_modules/page/page.mjs';
+// import page from '../node_modules/page/page.mjs';
+
+
 import { aboutPage } from './about.js';
 import { contactPage } from './contact.js';
 import { homePage } from './home.js';
