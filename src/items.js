@@ -40,23 +40,23 @@ export const HobbiesItems = [
 export const ProjectsItems = [
   {
     name: "ShoesStore",
-    img: "",
-    link: "",
+    img: "public/images/projects/shoes.png",
+    link: "http://maglov-001-site1.atempurl.com/",
     github: "https://github.com/KrasiMarkov/ShoesStore",
     description: ["C#", "HTML", "CSS", "jQuery"],
   },
   {
     name: "BulgarianRealEstate",
-    img: "",
-    link: "",
+    img: "public/images/projects/realestate.png",
+    link: "https://bulgarianrealestate.azurewebsites.net/",
     github: "https://github.com/KrasiMarkov/BulgarianRealEstate",
     description: ["C#", "HTML", "CSS"],
   },
   {
     name: "My-Portfolio",
-    img: "",
-    link: "",
-    github: "",
+    img: "public/images/projects/portfolio.png",
+    link: "https://my-portfolio-8ead6.web.app/",
+    github: "https://github.com/KrasiMarkov/My-Portfolio",
     description: ["Javascript", "HTML", "CSS"],
   },
 ];
