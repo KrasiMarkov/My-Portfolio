@@ -19,6 +19,7 @@
   src: url(src/fonts/Righteous-Regular.ttf);
 }
 
+@import 'https://fonts.googleapis.com/css?family=Raleway';
 
 
 li {
@@ -26,6 +27,7 @@ li {
 }
 
 
+/* HOMEPAGE */
 
 .animate__animated animate__bounceInDown animate__slow { 
 
@@ -58,51 +60,6 @@ li {
   color: #ffffff;
   font-size: 30px;
 } 
-
-
-
-
-
-
-
-
-@import 'https://fonts.googleapis.com/css?family=Raleway';
-
-
-#navbar ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  overflow: hidden;
-  background-color: black;
-  border-left: 8px solid orangered;
-  font-family: 'Rig';
-  
-}
-
-#navbar li {
-  float: left;
-}
-
-#navbar li a {
-  display: block;
-  color: white;
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
-  
-}
-
-#navbar li a:hover:not(.active) {
-  background-color: orangered;
-}
-
-
-
-
-
-
-
 
 .homepage{
   background-image: url(src/images/code18.jpg);
@@ -151,6 +108,39 @@ li {
 }
 
 
+/* NAVIGATION */
+
+
+#navbar ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: black;
+  border-left: 8px solid orangered;
+  font-family: 'Rig';
+  
+}
+
+#navbar li {
+  float: left;
+}
+
+#navbar li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  
+}
+
+#navbar li a:hover:not(.active) {
+  background-color: orangered;
+}
+
+
+/* ABOUT ME */
 
 
 .about-section {
@@ -253,6 +243,8 @@ li {
 }
 
 
+/* FOOTER */
+
 
 .footer {
   display: flex;
@@ -268,6 +260,7 @@ li {
 }
 
 
+/* PROJECTS */
 
 
 .projects-section {
@@ -317,7 +310,7 @@ li {
 
 .github-link {
   position: absolute;
-  background-color: white;
+  background-color: orangered;
   color: black;
   top: 6px;
   right: 20px;
@@ -328,6 +321,7 @@ li {
 }
 
 
+/* CONTACT */
 
 
 #contact-form {
