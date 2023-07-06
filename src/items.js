@@ -41,7 +41,7 @@ export const ProjectsItems = [
   {
     name: "ShoesStore",
     img: "public/images/projects/shoes.png",
-    link: "http://maglov-001-site1.atempurl.com/",
+    link: "http://shoesstoreapp-001-site1.btempurl.com/",
     github: "https://github.com/KrasiMarkov/ShoesStore",
     description: ["C#", "HTML", "CSS", "jQuery"],
   },
