@@ -3,7 +3,7 @@ export const ToolkitItems = [
   
     { name: "JavaScript", img: "public/images/tools/icons8-javascript-96.png" },
 
-    { name: "React", img: "public/images/tools/react.png" }
+    { name: "React", img: "public/images/tools/react.png" },
   
     { name: "HTML5", img: "public/images/tools/icons8-html-5-96.png" },
 
