@@ -59,4 +59,11 @@ export const ProjectsItems = [
     github: "https://github.com/KrasiMarkov/My-Portfolio",
     description: ["Javascript", "HTML", "CSS"],
   },
+  {
+    name: "GamesPlay",
+    img: "public/images/projects/games.png",
+    link: "https://games-play-app-5657c.web.app/",
+    github: "https://github.com/KrasiMarkov/GamesPlayApp",
+    description: ["React.js", "Javascript", "HTML", "CSS"],
+  }
 ];
