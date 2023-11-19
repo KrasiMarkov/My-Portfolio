@@ -1,19 +1,17 @@
 {
-  "name": "portfolio_js_moe",
+  "name": "my-portfolio",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "http-server"
+    "start": "http-server -a localhost -p http://localhost:3000? -c-1"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "animate.css": "^4.1.1",
-    "firebase": "^9.19.1",
     "http-server": "^14.1.1",
-    "lit-html": "^2.6.1",
+    "lit-html": "^3.1.0",
     "page": "^1.11.6"
   }
 }

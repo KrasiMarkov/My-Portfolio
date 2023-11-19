@@ -1,5 +1,6 @@
+import { html } from 'https://cdn.jsdelivr.net/gh/lit/dist@3/core/lit-core.min.js';
 // // import { html } from '../../node_modules/lit-html/lit-html.js';
-import { html } from 'https://unpkg.com/lit-html?module';
+// import { html } from 'https://unpkg.com/lit-html?module';
 
 
 let HomeTemplate = () => html`
